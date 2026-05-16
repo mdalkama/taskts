@@ -32,7 +32,7 @@ You just need Node installed (anything v18+ works fine).
 
 ```bash
 # 1. clone and go into the folder
-git clone <repo-url>
+git clone https://github.com/mdalkama/taskts.git
 cd taskts
 
 # 2. install deps
